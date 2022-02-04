@@ -1,4 +1,4 @@
-# Part-Time Course Projects & Exercises
+# BNTA Part-Time Course
 
 This repository contains resources and exercises for the February 2022 part-time course. 
 
