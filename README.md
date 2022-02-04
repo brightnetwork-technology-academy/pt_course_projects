@@ -63,7 +63,8 @@ Although this course is intended to be largely self-study there will be times du
 - TDD in JavaScript on [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/intro-video)
 - [Optional - useful for recapping a particular topic] JavaScript Fundamentals revision on [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-2/learn-the-language-of-the-internet)
 - CodePen exercises:
-	- exercise 1
+ 	- [Read the instructions!](/add/link/later)
+	- [Exercise 1 - Conditionals](https://codepen.io/cifarquhar/pen/VwrKpEQ)
 	- exercise 2
 	- exercise 3
 
