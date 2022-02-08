@@ -18,7 +18,7 @@ Although this course is intended to be largely self-study there will be times du
 - Monday 13.30 - 14.30
 - Tuesday 16.00 - 17.00
 - Thursday 13.30 - 14.30
-- Firday 16.00 - 17.00
+- Friday 16.00 - 17.00
 
 
 ## Schedule
