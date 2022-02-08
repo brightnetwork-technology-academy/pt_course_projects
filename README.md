@@ -65,7 +65,7 @@ Although this course is intended to be largely self-study there will be times du
 - CodePen exercises:
  	- [Read the instructions!](tasks/js_instructions.md)
 	- [Exercise 1 - Conditionals](https://codepen.io/cifarquhar/pen/VwrKpEQ)
-	- exercise 2
+	- [Exercise 2 - Loops](https://codepen.io/cifarquhar/pen/QWOKQXp)
 	- exercise 3
 
 ### Week 6: Mar 14 - Mar 18
