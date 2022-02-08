@@ -6,7 +6,7 @@ This repository contains resources and exercises for the February 2022 part-time
 
 For this course you will need to sign up to:
 
-- LinkedIn Learning (an invitation will be sent to you)
+- LinkedIn Learning (an invitation will be sent to you). The learning pathway can be found [here](https://www.linkedin.com/learning/paths/bright-network-technology-academy-self-managed-programme?shareId=70914714-eb1c-42b2-a021-9397f0f68681&accountId=122446834&u=122446834&success=true&authUUID=39XGjJIzRBew2IbEitOnBA%3D%3D).
 - [HackerRank](https://www.hackerrank.com)
 - [CodePen](https://codepen.io/)
 
@@ -48,7 +48,7 @@ Although this course is intended to be largely self-study there will be times du
 	- The "Basic Select" exercises
 	- The "Basic Join" exercises
 	- [Optional] The "Aggregation" exercises
-- Complete the Week 2 [API building task](/add/link/later)
+- Complete the Week 2 [API building task](tasks/api_building.md)
 
 ### Week 3: Feb 21 - Feb 25
 
