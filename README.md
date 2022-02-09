@@ -67,7 +67,7 @@ Although this course is intended to be largely self-study there will be times du
 	- [Exercise 1 - Conditionals](https://codepen.io/cifarquhar/pen/VwrKpEQ)
 	- [Exercise 2 - Arrays](https://codepen.io/cifarquhar/pen/oNoBKXK)
 	- [Exercise 3 - Loops](https://codepen.io/cifarquhar/pen/QWOKQXp)
-	- Exercise 4 - Objects
+	- [Exercise 4 - Objects](https://codepen.io/cifarquhar/pen/vYWxrKZ)
 
 ### Week 6: Mar 14 - Mar 18
 
