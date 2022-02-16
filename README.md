@@ -52,11 +52,11 @@ Although this course is intended to be largely self-study there will be times du
 
 ### Week 3: Feb 21 - Feb 25
 
-- [Server-side Project](/add/link/later)
+- [Server-side Project](projects/server_side.md)
 
 ### Week 4: Feb 28 - Mar 4
 
-- Continue [server-side project](/add/link/later)
+- Continue [server-side project](projects/server_side.md)
 
 ### Week 5: Mar 7 - Mar 11
 
