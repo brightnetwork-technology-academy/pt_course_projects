@@ -22,6 +22,14 @@ Try to keep your code DRY by minimising the number of components you need.
 
 Your backend won't currently accept connections from your React app. Add [CORS configuration](cors.md) to allow the appropriate requests from `localhost:3000`.
 
+Aside from CORS setup you shouldn't need to edit your backend app to complete this task. If your system starts struggling to run everything you can start the Spring app from Terminal without opening IntelliJ:
+
+```sh
+cd path/to/your/project
+
+./mvnw spring-boot:run
+```
+
 ## Possible Extensions
 
 - Use React Router to improve navigation in your app
