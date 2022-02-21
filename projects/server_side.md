@@ -34,6 +34,6 @@ It **should not** include an open IDE or a line-by-line dissection of the code. 
 
 ## Project Management
 
-When you have created you GitHub repository post a link to it on Discord. Remember to push your code regularly - not only is it a useful backup, it makes it much easier to get help if the code is already online for a trainer to pull.
+When you have created your GitHub repository post a link to it on Discord. Remember to push your code regularly - not only is it a useful backup, it makes it much easier to get help if the code is already online for a trainer to pull.
 
 The office hours will operate as normal during the project weeks, but trainers will be available to answer questions outwith those hours too. We will **not** be available outside of normal working hours but we'll answer any questions as soon as we can. If you are experimenting with a new library or feature we may not have much experience with it, so if you need help come prepared with links to documentation and be able to tell us what you've tried so far.
