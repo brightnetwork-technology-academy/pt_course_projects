@@ -73,7 +73,7 @@ Although this course is intended to be largely self-study there will be times du
 
 - React fundamentals on [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-js-5/getting-started-with-react)
 - React hooks on [LinkedIn Learning](https://www.linkedin.com/learning/react-hooks/understanding-modern-react)
-- Complete the Week 6 [front-end task](/add/link/later)
+- Complete the Week 6 [front-end task](tasks/react_app.md)
 
 ### Week 7: Mar 21 - Mar 25
 
